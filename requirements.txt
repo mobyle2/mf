@@ -1,0 +1,2 @@
+pymongo
+git+https://github.com/mobyle2/mongokit.git#egg=mongokit
